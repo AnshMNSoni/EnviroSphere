@@ -1,0 +1,104 @@
+Build a full-stack interactive website called “Smart Urban Planner” powered by NASA Earth Observation data.
+The platform should allow urban planners, city officials, and citizens to visualize environmental data, plan interventions, and get AI-driven recommendations.
+
+Core Features:
+
+Data Integration:
+
+Fetch & visualize NASA Earth Observation datasets (Air Quality, Water Quality, Temperature, Land Use, Vegetation NDVI).
+
+Support multiple layers via a map dashboard (heatmaps, overlays, legends).
+
+User Inputs:
+
+City/location input (name or coordinates).
+
+Problem type selection (Air Quality, Water, Heat, Green Space, Flood/Drought, Housing, Industrial Impact).
+
+Time range (past years → present).
+
+Data layer toggles (AQI, NDVI, land use, pollution, etc.).
+
+Optional: Upload local datasets (CSV, GeoJSON).
+
+Core Dashboard:
+
+Map-based view (Leaflet/Mapbox).
+
+Graphs (Chart.js / Plotly) for temporal changes.
+
+Summary cards (AQI, vegetation health, heat intensity, water index).
+
+Insights panel with simple recommendations (e.g., “Add green cover in Zone X”).
+
+AI Planner Module:
+
+Predictive analytics using past data (forecast pollution, heat, flood risk).
+
+“What-if simulator” → test interventions (increase green cover, add housing, etc.).
+
+Auto-generate policy suggestions.
+
+Community Hub:
+
+Citizens report issues (mark location + text/photo).
+
+Crowdsourced feedback layer displayed on map.
+
+Gamified leaderboard for engagement.
+
+Policy Insights Page:
+
+Sustainability & Wellbeing Index (composite score per zone).
+
+Downloadable PDF reports with charts, maps, recommendations.
+
+Comparative scenario analysis (“Business as Usual” vs “Sustainable Growth”).
+
+Navigation Flow:
+
+Home Page (Intro, NASA data explanation, call-to-action).
+
+Dashboard Page (main visualizer).
+
+AI Planner Page (simulations).
+
+Community Hub Page.
+
+Policy Insights Page.
+
+About/Team Page.
+
+UI/UX Requirements:
+
+Use React.js (or Next.js) + TailwindCSS + Framer Motion for a clean, modern design.
+
+Responsive & mobile-friendly.
+
+Map interactions must be smooth (zoom, draw boundary, toggle layers).
+
+Futuristic theme with animated transitions.
+
+Backend:
+
+Python (Flask or FastAPI).
+
+PostgreSQL + PostGIS for geo-data.
+
+Integrate with NASA APIs (EarthData, GIBS, MODIS NDVI, Open AQ).
+
+Bonus Features (if possible):
+
+Chatbot assistant: “Ask SmartPlanner” (AI chatbot for city insights).
+
+Digital Twin (3D model of city with growth simulation).
+
+Story mode: “Future City” simulator showing growth under different policies.
+
+Deliverables:
+
+A fully working prototype hosted on free deployment platforms (Render, Vercel, or Netlify).
+
+Downloadable policy reports (PDF).
+
+Demo-ready UI with futuristic animations.
