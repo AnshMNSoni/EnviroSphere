@@ -90,7 +90,6 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center"
           style={{ 
             backgroundImage: `url(${heroImage})`,
-            animation: 'rotate-earth 120s linear infinite'
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/80 to-background" />

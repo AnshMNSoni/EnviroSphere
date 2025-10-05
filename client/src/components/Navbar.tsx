@@ -25,7 +25,7 @@ export function Navbar() {
           <Link href="/" className="flex items-center gap-2 hover-elevate px-2 py-1 rounded-md">
             <Satellite className="h-6 w-6 text-primary" />
             <span className="text-lg font-bold tracking-tight">
-              Smart Urban Planner
+              PrithviNetra
             </span>
           </Link>
 
