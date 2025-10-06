@@ -73,3 +73,14 @@ Prithvi Netra aims to empower urban planners, local authorities, and citizens wi
 1️⃣ Home Page
 <img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/85258556-778a-4180-bc2c-e98282b0b793" />
 
+2️⃣ Dashboard 
+<img width="1896" height="915" alt="image" src="https://github.com/user-attachments/assets/6431e034-d2ce-4483-8112-5787af9fcb79" />
+
+3️⃣ AI Planning Assistant 
+<img width="1886" height="913" alt="image" src="https://github.com/user-attachments/assets/a1d28b41-2942-4706-92d4-1dfa927fb978" />
+
+4️⃣ Community Hub
+<img width="1894" height="912" alt="image" src="https://github.com/user-attachments/assets/88b6b316-f54c-4496-bcf0-2315eb172cad" />
+
+5️⃣ Policy Insights
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/2eb65b27-53c8-4ab2-bd05-2e7f71886ee9" />
