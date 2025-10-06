@@ -1,6 +1,4 @@
-# EnviroSphere
-
-## 🌍 Prithvi Netra
+# 🌍 Prithvi Netra
 
 Prithvi Netra is a web-based platform that enables users to analyze, visualize, and plan for urban growth using NASA Earth observation data. The platform focuses on identifying urban challenges and supporting data-driven decision-making for sustainable city development.
 
@@ -84,3 +82,12 @@ Prithvi Netra aims to empower urban planners, local authorities, and citizens wi
 
 5️⃣ Policy Insights
 <img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/2eb65b27-53c8-4ab2-bd05-2e7f71886ee9" />
+
+## 📢 Connect with Me
+If you found this project helpful or have any suggestions, feel free to connect:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshmnsoni-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/anshmnsoni)  
+- [![GitHub](https://img.shields.io/badge/GitHub-AnshMNSoni-181717.svg?logo=github)](https://github.com/AnshMNSoni)
+- [![Reddit](https://img.shields.io/badge/Reddit-u/AnshMNSoni-FF4500.svg?logo=reddit)](https://www.reddit.com/user/AnshMNSoni)
+
+## Thankyou 💫 
