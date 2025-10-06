@@ -83,6 +83,16 @@ Prithvi Netra aims to empower urban planners, local authorities, and citizens wi
 5️⃣ Policy Insights
 <img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/2eb65b27-53c8-4ab2-bd05-2e7f71886ee9" />
 
+## 🔮 Future Work
+
+- Real-time Data Integration – Incorporate live satellite feeds and IoT sensor data for up-to-date urban monitoring.
+
+- Predictive Analytics – Use machine learning to forecast urban issues like pollution hotspots or heat islands.
+
+- Advanced Urban Planning Tools – Simulate the impact of new infrastructure, green spaces, or policy changes.
+
+- Community Crowdsourcing – Enable residents to provide geotagged feedback, images, and reports for better city planning.
+
 ## 📢 Connect with Me
 If you found this project helpful or have any suggestions, feel free to connect:
 
